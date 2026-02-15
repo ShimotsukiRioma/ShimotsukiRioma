@@ -38,18 +38,16 @@
 ---
 
 ### 💬 Contact | 找我聊天
-- **Bilibili**: [霜月澪真](https://space.bilibili.com/你的UID)
-- **Email**: [你的邮箱]
+- **Bilibili**: [霜月澪真](https://space.bilibili.com/1226140657)
+- **Email**: rioma_shimotsuki@foxmail.com
 
 ---
 
 ### 🕯️ One More Thing | 碎碎念
-这里是一个适合放置真实想法的小角落。
-最近的学业压力、对未来的迷茫，或者是那些不想让现实中的人看到的胡思乱想……
+Coming Soon™
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShimotsukiRioma&label=Profile%20Views&color=ff69b4&style=flat" alt="Views" />
-</p>=ff69b4&style=flat" alt="Views" />
 </p>
