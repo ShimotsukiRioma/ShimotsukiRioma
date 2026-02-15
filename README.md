@@ -26,7 +26,7 @@
 ### 🛠️ Tech Stacks | 技术栈
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,cpp,html,css,git,linux,md" />
+    <img src="https://skillicons.dev/icons?i=cs,wpf,vs,py,cpp,html,git,linux,md" />
   </a>
 </p>
 
