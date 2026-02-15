@@ -7,8 +7,8 @@
 ---
 
 ### 🌸 About Me | 关于我
-- 🏫 **Status**: 2025届高中生，现役高一 (Class of 2028)
-- 🎭 **Vibe**: 伪阳角，随和的外表下藏着一点阴暗面。
+- 🏫 **Status**: Heilongjiang Provincial High School,Harbin,Heilongjiang,China
+- 🎭 **Vibe**: 看起来活泼，其实是伪阳角...
 - 🎹 **Inspiration**: 晓山瑞希 (Akiyama Mizuki) 
 - 💬 **Pronouns**: He/Him (Maybe...?)
 
