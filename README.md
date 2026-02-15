@@ -15,18 +15,13 @@
 ---
 
 ### 📊 Github Stats | 统计信息
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShimotsukiRioma&show_icons=true&theme=radical&hidel=contribs,prs" alt="Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShimotsukiRioma&layout=compact&theme=radical" alt="Langs" />
-</p>
 
 ---
 
 ### 🛠️ Tech Stacks | 技术栈
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,wpf,vs,py,cpp,html,git,linux,md" />
+    <img src="https://skillicons.dev/icons?i=cs,visualstudio,py,cpp,html,git,linux,md" />
   </a>
 </p>
 
