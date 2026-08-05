@@ -28,5 +28,5 @@ Coming Soon™
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShimotsukiRioma&label=Profile%20Views&color=ff69b4&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=fuyurost&label=Profile%20Views&color=ff69b4&style=flat" alt="Views" />
 </p>
