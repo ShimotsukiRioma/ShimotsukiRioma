@@ -1,19 +1,3 @@
-# 🌙 霜月 澪真 (Shimotsuki Rioma) | Profile
-
-> 「即便是在名为现实的荒野中，也要寻找属于自己的色彩。」
-> 
-> *—— 游走在光影边缘的高一学生。*
-
----
-
-### 🌸 About Me | 关于我
-- 🏫 **Status**: Heilongjiang Provincial High School,Harbin,Heilongjiang,China
-- 🎭 **Vibe**: 看起来活泼，其实是伪阳角...
-- 🎹 **Inspiration**: 晓山瑞希 (Akiyama Mizuki) 
-- 💬 **Pronouns**: He/Him (Maybe...?)
-
----
-
 ### 📊 Github Stats | 统计信息
 
 ---
