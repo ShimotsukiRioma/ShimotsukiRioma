@@ -5,7 +5,7 @@
 ### 🛠️ Tech Stacks | 技术栈
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,visualstudiocode,py,cpp,html,ts,git,md,vue,flask" />
+    <img src="https://skillicons.dev/icons?i=cs,vscode,py,cpp,html,ts,vue,css,git,md" />
   </a>
 </p>
 
