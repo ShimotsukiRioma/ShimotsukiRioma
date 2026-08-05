@@ -12,7 +12,7 @@
 ---
 
 ### 🗓️ Activity | 活跃轨迹
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShimotsukiRioma&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fuyurost&theme=react-dark)
 
 ---
 
